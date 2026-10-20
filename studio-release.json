@@ -1,7 +1,7 @@
 {
-  "version": "0.3.4",
-  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.4_Windows.zip",
-  "sha256": "058ba4386d3e6fabe1b8b209dba921e95bd0bcac357b75b987e23d55dd05ee61",
-  "size": 162288,
+  "version": "0.3.5",
+  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.5_Windows.zip",
+  "sha256": "4eaa6fe7e950abfbe85f1bbcbc2cab90534e478cc3a2d52f6cf48a1ee35cb49e",
+  "size": 162324,
   "notes": "恢复 Studio 内检查更新、下载校验和更新重启；网页更新仅作备用。"
 }
