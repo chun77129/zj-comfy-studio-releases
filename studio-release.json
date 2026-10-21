@@ -1,7 +1,7 @@
 {
-  "version": "0.3.12",
-  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.12_Windows.zip",
-  "sha256": "6767c4393e09d588a1fdfb83f2843c387b7527471ca21d7da0fac7a8b10d45b7",
-  "size": 185347,
-  "notes": "修复版本显示及健康检查写死 0.3.10 导致更新回退；界面和健康检查统一读取真实版本，启动器确认完成后才显示更新成功。保留画布 JSON 导入修复。"
+  "version": "0.3.13",
+  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.13_Windows.zip",
+  "sha256": "78a6b88738aa77dc4366f4c72bebb84efffd9b0f31100d24ba5ce760111af151",
+  "size": 186909,
+  "notes": "镜头台内配置 ComfyUI、读取本机工作流及模型选项、执行前检查；所有接口共用实际版本，保留画布导入及可靠更新。"
 }
