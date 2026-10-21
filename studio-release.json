@@ -1,7 +1,7 @@
 {
-  "version": "0.3.10",
-  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.10_Windows.zip",
-  "sha256": "8697fb54f6cf8c144938186be65479d5325eaec252f128ec6b6cdf453685818f",
-  "size": 174263,
-  "notes": "修复启动器更新请求识别：使用启动实例标识，避免 Windows 进程号差异丢失请求；无效请求明确报错，保留原配置和记录。"
+  "version": "0.3.11",
+  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.11_Windows.zip",
+  "sha256": "daea50cee3881b4ee3be1114db778fdfa2a8735891602059fd821d40b2632c6b",
+  "size": 185036,
+  "notes": "支持直接导入 ComfyUI 画布 JSON，按本机节点定义转换；修复普通画布误报含子图，保留原始工作流并报告具体节点错误。"
 }
