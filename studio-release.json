@@ -1,7 +1,7 @@
 {
-  "version": "0.3.14",
-  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.14_Windows.zip",
-  "sha256": "bd46cc65394b36ade83d60f87d5a47bee908df6db34d8e4169e36bf4ee4fb7f1",
-  "size": 190190,
-  "notes": "分类检测缺失节点与未识别模型，显示具体文件名、建议目录、本机相近候选；消除缺少上游节点造成的重复端口报错，区分无法核验与真实故障。"
+  "version": "0.3.15",
+  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.15_Windows.zip",
+  "sha256": "e3a4f64a40b3f30e848dcbe3c4ab7894afcc6411d98cfe9d944517532bca5011",
+  "size": 191974,
+  "notes": "修复官方 Krea 2 的 COMFY_MATCHTYPE_V3 动态端口被误判为 STRING／MODEL 不兼容；按模板与来源类型检查，保留真实错误与缺失模型检测。"
 }
