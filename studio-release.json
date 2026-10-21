@@ -1,7 +1,7 @@
 {
-  "version": "0.3.6",
-  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.6_Windows.zip",
-  "sha256": "07b8a2db6a3d57c46c4fd6505246a1171fa45958634f92bd856471d940ddfda0",
-  "size": 162340,
-  "notes": "恢复 Studio 内检查更新、下载校验和更新重启；网页更新仅作备用。"
+  "version": "0.3.8",
+  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.8_Windows.zip",
+  "sha256": "1d66d7f4b71874867ca89608bcb6ae207247f6041acead228f9df7ecc72435aa",
+  "size": 165235,
+  "notes": "支持镜头台本地参考图上传、Krea 2 风格参考与任务结果回收；保留已有配对、连接和生成记录。"
 }
