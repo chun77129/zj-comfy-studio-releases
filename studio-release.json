@@ -1,7 +1,7 @@
 {
-  "version": "0.3.13",
-  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.13_Windows.zip",
-  "sha256": "78a6b88738aa77dc4366f4c72bebb84efffd9b0f31100d24ba5ce760111af151",
-  "size": 186909,
-  "notes": "镜头台内配置 ComfyUI、读取本机工作流及模型选项、执行前检查；所有接口共用实际版本，保留画布导入及可靠更新。"
+  "version": "0.3.14",
+  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.14_Windows.zip",
+  "sha256": "bd46cc65394b36ade83d60f87d5a47bee908df6db34d8e4169e36bf4ee4fb7f1",
+  "size": 190190,
+  "notes": "分类检测缺失节点与未识别模型，显示具体文件名、建议目录、本机相近候选；消除缺少上游节点造成的重复端口报错，区分无法核验与真实故障。"
 }
