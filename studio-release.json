@@ -1,7 +1,7 @@
 {
-  "version": "0.3.9",
-  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.9_Windows.zip",
-  "sha256": "a265768c500f8ac847eaec5e462219036c0006367d4bab5fb995d7785b2fb4aa",
-  "size": 172973,
-  "notes": "新增更新阶段、真实下载进度、耗时与诊断；更新进行中禁止重复提交，明确等待重启与失败状态。"
+  "version": "0.3.10",
+  "url": "https://raw.githubusercontent.com/chun77129/zj-comfy-studio-releases/main/ZJ_Comfy_Studio_v0.3.10_Windows.zip",
+  "sha256": "8697fb54f6cf8c144938186be65479d5325eaec252f128ec6b6cdf453685818f",
+  "size": 174263,
+  "notes": "修复启动器更新请求识别：使用启动实例标识，避免 Windows 进程号差异丢失请求；无效请求明确报错，保留原配置和记录。"
 }
